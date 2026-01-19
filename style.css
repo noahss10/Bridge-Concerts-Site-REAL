@@ -52,7 +52,7 @@ body {
 }
 
 .logo-image {
-    height: 400;
+    height: 125px;
     width: auto;
 }
 
@@ -195,8 +195,8 @@ body {
     position: absolute;
     inset: 0;
     background-image: 
-        url('Graphics/twinkle_overlay_1920x1080 (1).png'),
-        url('Graphics/web_bg_stage_soft_blue_crisp_beam_plus10_sharp_UR_1920x1080 (1).webp');
+        url('背景物料/twinkle_overlay_1920x1080 (1).png'),
+        url('背景物料/web_bg_stage_soft_blue_crisp_beam_plus10_sharp_UR_1920x1080 (1).webp');
     background-size: 120% auto, 120% auto;
     background-position: center -255px, center -255px;
     background-repeat: no-repeat, no-repeat;
