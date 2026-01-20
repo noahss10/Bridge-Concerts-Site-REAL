@@ -3,12 +3,12 @@ document.addEventListener('DOMContentLoaded', function() {
         {
             text: 'The entertainment industry differs across countries — from security regulations to production norms. With years of hands–on international experience, our team provides seamless communication between the artist team and local production. We are your link to ensuring smooth collaboration and the highest production standards.',
             author: 'WHY US',
-            image: 'Niji Wide.jpg'
+            image: 'Graphics/Niji Narrow.jpg'
         },
         {
             text: 'Combining technical expertise, tour management, production coordination, and creative insight, our team — from both China and the United States — works closely together to serve with professionalism, empathy, and flexibility, bridging regional differences with efficiency and understanding.',
             author: 'OUR TEAM',
-            image: 'Niji Narrow.jpg'
+            image: 'Graphics/Audience Dark.jpg'
         }
     ];
 
